@@ -64,7 +64,7 @@ The system retrieves relevant legal articles and generates **grounded, context-b
 # 🚗 Moroccan Road Code RAG System
 
 <p align="center">
-  <img src="assets/interface.png" width="800"/>
+  <img src="assets/architecture.png" width="800"/>
 </p>
 
 ## 🧠 Architecture
